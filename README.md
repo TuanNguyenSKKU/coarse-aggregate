@@ -1,5 +1,7 @@
 # The dataset for Coarse Aggregate Analysis
 
+Analysis of coarse aggregates such as aggregate classification, particle size distribution, and its shape indices.
+
 ## 1. Deep Learning
   - train: the images for training set.
   - val: the images for validation set.
