@@ -1,4 +1,4 @@
-# The dataset for Coarse Aggregate (Submitted)
+# The dataset for Coarse Aggregate
 
 ## 1. Deep Learning
   - train: the images for training set.
