@@ -8,3 +8,5 @@
 ## 2. Stereo cameras
   - Chessboard images: the left and right images of the A3 size chessboard for the calibration & rectification process. 
   - Sample 1-3: the original images of the on-site sample captured from the inspection system.
+
+Please visit our publication here: https://doi.org/10.1061/(ASCE)CP.1943-5487.0001005
